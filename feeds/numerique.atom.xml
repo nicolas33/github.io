@@ -1,12 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects, le blog de Nicolas Sebrecht</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-08T10:20:00+01:00</updated><entry><title>L'ubiquité numérique</title><link href="http://nicolas.sebrecht.fr/lubiquite-numerique.html" rel="alternate"></link><published>2016-12-08T10:20:00+01:00</published><updated>2016-12-08T10:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-08:lubiquite-numerique.html</id><summary type="html">&lt;p&gt;Allons droit au but : &lt;strong&gt;&lt;em&gt;l'ubiquité informatique&lt;/em&gt;&lt;/strong&gt; (ou &lt;strong&gt;&lt;em&gt;intelligence
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects, le blog de Nicolas Sebrecht</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-09T16:20:00+01:00</updated><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article (oui mais non, le précédant ne compte pas vraiment !),
+nous voici plongé dans une belle actu. Trois français ont ainsi été honorés pour
+leurs travaux dans les domaines phares du numérique.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;em&gt;«&amp;nbsp;L'Association for Computing Machinery, qui attribue le prix Turing,
+distingue aussi chaque année des scientifiques nommés « ACM Fellows » pour
+leur contribution aux sciences informatiques. Cette année, la liste comporte
+trois Français dont deux chercheurs de l'Inria, Anne-Marie Kermarrec et André
+Seznec, et un professeur du MIT, Fredo Durand.&amp;nbsp;»&lt;/em&gt;
+(&lt;a class="reference external" href="http://www.lemondeinformatique.fr/actualites/lire-trois-chercheurs-francais-nommes-acm-fellows-2016-66744.html."&gt;le monde informatique&lt;/a&gt;)&lt;/blockquote&gt;
+&lt;div class="section" id="l-actu"&gt;
+&lt;h2&gt;L'actu&lt;/h2&gt;
+&lt;p&gt;Nous sommes heureux d'apprendre que des français se trouvent à la pointe des
+nouvelles technologies. Félicitations aux nominés&amp;nbsp;!&lt;/p&gt;
+&lt;p&gt;Par là même, qu'une de ces personnes est à la fois chercheur à l'Inria et
+co-fondatrice d'une startup&amp;nbsp;: &lt;a class="reference external" href="http://www.mediego.com"&gt;mediego&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;À l'Inria, Anne-Marie Kermarrec fait partie de &lt;a class="reference external" href="https://www.inria.fr/equipes/asap"&gt;l'équipe ASAP&lt;/a&gt; (pour As
+Scalable As Possible) qui s'intéresse aux &lt;em&gt;systèmes distribués&lt;/em&gt;. Ce domaine de
+recherche vise à construire des systèmes des applications distribuées à large
+échelle.&lt;/p&gt;
+&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Ici, il faut simplement comprendre que l'application est construite en
+plusieurs sous-applications. Tous les calculs ne sont pas l'œuvre d'une seule
+machine et les données sont réparties sur de très, très nombreuses machines.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Jusque là, c'est tout bon. Des systèmes distribués, on en trouve un peu partout.&lt;/p&gt;
+&lt;p&gt;Ce qui rend l'actualité intéressante est le domaine d'application des recherches
+de cette équipe&amp;nbsp;:&lt;/p&gt;
+&lt;blockquote&gt;
+la mise en relation &lt;em&gt;«&amp;nbsp;d'entités aux capacités limitées, géographiquement
+distantes et potentiellement mobiles&amp;nbsp;»&lt;/em&gt;.&lt;/blockquote&gt;
+&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Il s'agit là, entre autres, &lt;strong&gt;des objets connectés&lt;/strong&gt; de type smartphone,
+caméra IP, GPS, etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="applique-a-l-entreprise"&gt;
+&lt;h2&gt;Appliqué à l'entreprise&lt;/h2&gt;
+&lt;p&gt;Et la startup&amp;nbsp;? Voici ce qu'elle propose&amp;nbsp;:&lt;/p&gt;
+&lt;div class="media"&gt;
+&lt;div class="pull-left"&gt;
+&lt;img alt="" class="media-object" src="images/mediego.png" /&gt;
+&lt;/div&gt;
+&lt;div class="media-body"&gt;
+&lt;!-- alt: page d'acuueil du site http://mediego.com --&gt;
+&lt;!-- class: "embed-responsive embed-responsive-16by9" --&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="alert  alert-danger compound"&gt;
+&lt;p&gt;On notera en particulier &lt;strong&gt;l'hyper-segmentation dynamique de l'audience&lt;/strong&gt; et
+&lt;strong&gt;la personnalisation imédiate&lt;/strong&gt; des contenus délivrés pour leurs clients.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Vous l'aurez compris&amp;nbsp;: tout le modèle économique est basé sur &lt;strong&gt;VOUS&lt;/strong&gt;. Et en
+particulier, tout ce que l'on pourra déduire de vos données.&lt;/p&gt;
+&lt;p&gt;L'idée est donc de récupérer et travailler vos données pour revendre les
+informations vous concernant. Celles-ci sont pré-compilées (a priori sur votre
+smartphone ou navigateur web) avant d'être récoltées. Des serveurs stockent ces
+informations. Enfin, elles sont re-travaillées pour mieux déceler vos futures
+envies (ou &lt;em&gt;vos points faibles&lt;/em&gt;) et permettre à d'autres d'en tirer profit.&lt;/p&gt;
+&lt;p&gt;Plus un «&amp;nbsp;profil&amp;nbsp;» est détaillé, plus l'information devient pertinente.
+Aujourd'hui, l'origine la plus critique de vos données provient de votre
+téléphone portable. Et il y en a des choses à récupérer&amp;nbsp;!&lt;/p&gt;
+&lt;div class="alert  alert-warning compound"&gt;
+&lt;p class="compound-first"&gt;Il est important de signaler que ces méthodes ne sont pas l'apanage de cette
+startup, loin de là. Disons qu'être une référence dans la technique peut
+certainement aider à convaincre des clients.&lt;/p&gt;
+&lt;p class="compound-last"&gt;Par ailleurs, je tiens à signaler que je n'ai rien contre cette entreprise ni
+Mle ou Mme Kermarrec. Cet exemple me sert ici d'appui pour expliquer les
+enjeux, rien de plus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="et-alors"&gt;
+&lt;h2&gt;Et alors ?&lt;/h2&gt;
+&lt;p&gt;J'entends déjà dans la salle certains se rassurer énergiquement&amp;nbsp;: «&amp;nbsp;qu'ils y
+aillent, cela ne me dérange pas et peu même m'aider à gagner du temps sur mes
+prochains achats&amp;nbsp;».&lt;/p&gt;
+&lt;p&gt;Bon, ok.  Admettons que l'on puisse gagner un temps non négligeable par ces
+méthodes. (Quoique cela resterait à prouver...)&lt;/p&gt;
+&lt;p&gt;Il convient tout de même contre-balancer ces pratiques avec les inconvénients et
+les risques qu'elles comportent.&lt;/p&gt;
+&lt;p&gt;Ces risques sont nombreux, trop nombreux pour être détaillés dans cet article.
+Et si vous croyez échapper à tout ça, vous vous trompez lourdement. Bien sûr, on
+détaillera tout ceci au fur et à mesure, dans de prochains articles. ,-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ce-qu-il-faut-retenir"&gt;
+&lt;h2&gt;Ce qu'il faut retenir&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;Le plus important, c'est que les méthodes pour traiter vos données font
+l'objet d'études&lt;/strong&gt; très sérieuses.&lt;/li&gt;
+&lt;li&gt;La cible, bien souvent, c'est vous.&lt;/li&gt;
+&lt;li&gt;Le processus démarre à partir de n'importe quel type d'objet connecté, le
+plus courant actuellement étant le smartphone.&lt;/li&gt;
+&lt;li&gt;Vos données sont regroupées et croisées entre elles pour mieux deviner sur
+vous ce que les données brutes ne disent pas directement.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="alert  alert-danger compound"&gt;
+&lt;p&gt;En conclusion, &lt;strong&gt;tout détail sur vous et votre vie compte pour quelqu'un&lt;/strong&gt;. Et
+ce qu'il en fera vous dépasse complètement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Informatique"></category><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>L'ubiquité numérique</title><link href="http://nicolas.sebrecht.fr/lubiquite-numerique.html" rel="alternate"></link><published>2016-12-08T10:20:00+01:00</published><updated>2016-12-08T10:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-08:lubiquite-numerique.html</id><summary type="html">&lt;p&gt;Allons droit au but : &lt;strong&gt;&lt;em&gt;l'ubiquité informatique&lt;/em&gt;&lt;/strong&gt; (ou &lt;strong&gt;&lt;em&gt;intelligence
 ambiante&lt;/em&gt;&lt;/strong&gt;), vous ne connaissez peut-être pas. Et pourtant, il s'agit d'un
 thème de société majeur. &lt;strong&gt;Tout le monde est concerné&lt;/strong&gt;, absolument tout le
 monde ! Malheureusement, peu de monde en parle...&lt;/p&gt;
 &lt;p&gt;...Pas le temps ? Intérêts obligent ? Qu'importe. &lt;strong&gt;L'informatique opère des
 changements que nous pensons bien connaître. Pourtant, cela n'a jamais été aussi
 faux.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dans &lt;code&gt;Digital side effects&lt;/code&gt;, nous discuterons du numérique tel que personne n'en
+&lt;p&gt;Dans &lt;code&gt;Digital Side Effects&lt;/code&gt;, nous discuterons du numérique tel que personne n'en
 parle : &lt;em&gt;Edward Snowden, e-santé, big data, Wikileaks, objets connectés,
 Facebook,&lt;/em&gt; etc. Impossible de tous les citer.&lt;/p&gt;
 &lt;div class="bg-info"&gt;
@@ -16,4 +116,4 @@ que c'est un sujet qui ne nous concerne pas encore est votre première erreur.&l
 &lt;p&gt;Les changements de société actuels et à venir dépendent des évolutions
 techniques et de ce que nous déciderons d'en faire.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Et si les professionnels du secteur n&amp;#39;en parlent pas, alors qui le fera ?
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="Informatique"></category></entry></feed>
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="Informatique"></category><category term="Vie privée"></category></entry></feed>
