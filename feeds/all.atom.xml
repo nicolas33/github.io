@@ -13,12 +13,11 @@ Seznec, et un professeur du MIT, Fredo Durand.&amp;nbsp;»&lt;/em&gt;
 &lt;h2&gt;L'actu&lt;/h2&gt;
 &lt;p&gt;Nous sommes heureux d'apprendre que des français se trouvent à la pointe des
 nouvelles technologies. Félicitations aux nominés&amp;nbsp;!&lt;/p&gt;
-&lt;p&gt;Par là même, qu'une de ces personnes est à la fois chercheur à l'Inria et
-co-fondatrice d'une startup&amp;nbsp;: &lt;a class="reference external" href="http://www.mediego.com"&gt;mediego&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Par là même, on apprend qu'une de ces personnes est à la fois chercheuse à
+l'Inria et co-fondatrice d'une startup&amp;nbsp;: &lt;a class="reference external" href="http://www.mediego.com"&gt;mediego&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;À l'Inria, Anne-Marie Kermarrec fait partie de &lt;a class="reference external" href="https://www.inria.fr/equipes/asap"&gt;l'équipe ASAP&lt;/a&gt; (pour As
 Scalable As Possible) qui s'intéresse aux &lt;em&gt;systèmes distribués&lt;/em&gt;. Ce domaine de
-recherche vise à construire des systèmes des applications distribuées à large
-échelle.&lt;/p&gt;
+recherche vise à construire des applications distribuées à large échelle.&lt;/p&gt;
 &lt;div class="alert  alert-info compound"&gt;
 &lt;p&gt;Ici, il faut simplement comprendre que l'application est construite en
 plusieurs sous-applications. Tous les calculs ne sont pas l'œuvre d'une seule
@@ -40,16 +39,14 @@ caméra IP, GPS, etc.&lt;/p&gt;
 &lt;p&gt;Et la startup&amp;nbsp;? Voici ce qu'elle propose&amp;nbsp;:&lt;/p&gt;
 &lt;div class="media"&gt;
 &lt;div class="pull-left"&gt;
-&lt;img alt="" class="media-object" src="images/mediego.png" /&gt;
+&lt;img alt="page d'acuueil du site http://mediego.com" class="media-object" src="images/mediego.png" /&gt;
 &lt;/div&gt;
 &lt;div class="media-body"&gt;
-&lt;!-- alt: page d'acuueil du site http://mediego.com --&gt;
-&lt;!-- class: "embed-responsive embed-responsive-16by9" --&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="alert  alert-danger compound"&gt;
 &lt;p&gt;On notera en particulier &lt;strong&gt;l'hyper-segmentation dynamique de l'audience&lt;/strong&gt; et
-&lt;strong&gt;la personnalisation imédiate&lt;/strong&gt; des contenus délivrés pour leurs clients.&lt;/p&gt;
+&lt;strong&gt;la personnalisation imédiate&lt;/strong&gt; des contenus livrés à leurs clients.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Vous l'aurez compris&amp;nbsp;: tout le modèle économique est basé sur &lt;strong&gt;VOUS&lt;/strong&gt;. Et en
 particulier, tout ce que l'on pourra déduire de vos données.&lt;/p&gt;
