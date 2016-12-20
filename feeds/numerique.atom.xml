@@ -1,5 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects, le blog de Nicolas Sebrecht</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-09T16:20:00+01:00</updated><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article (oui mais non, le précédant ne compte pas vraiment !),
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-18T00:00:00+01:00</updated><entry><title>La DGSI inapte à gérer ses propres données</title><link href="http://nicolas.sebrecht.fr/la-dgsi-inapte-a-gerer-ses-propres-donnees.html" rel="alternate"></link><published>2016-12-18T00:00:00+01:00</published><updated>2016-12-18T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-18:la-dgsi-inapte-a-gerer-ses-propres-donnees.html</id><summary type="html">&lt;p&gt;La nouvelle laisse pantois. La DGSI, premier service de renseignement en France,
+est incapable de gérer elle même les données récoltées. La solution trouvée&amp;nbsp;?
+Faire appel à... une entreprise aux États-Unis créée par la CIA.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;em&gt;«&amp;nbsp;Submergée par les données informatiques liées au terrorisme, la DGSI vient
+de signer un contrat déléguant leur traitement à une société américaine, créée
+par la CIA. Une décision nécessaire dans un souci d'efficacité mais qui donne
+des informations secrètes aux services de renseignements américains et pose
+une question de souveraineté nationale.&amp;nbsp;»&lt;/em&gt;
+(&lt;a class="reference external" href="http://www.parismatch.com/Actu/International/La-CIA-appelee-au-secours-par-l-antiterrorisme-francais-1138268"&gt;Paris Match&lt;/a&gt;)&lt;/blockquote&gt;
+&lt;p&gt;Et voici une perle&amp;nbsp;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;em&gt;Guillaume Poupard, directeur général de L'Agence nationale de la sécurité des
+systèmes d'information (ANSSI, le bras armé de l’État en matière de
+cyberdéfense) déclarait : « Nous sommes pour une coopération internationale
+intelligente et non naïve ».&lt;/em&gt;&lt;/blockquote&gt;
+&lt;div class="section" id="des-sous-entendus"&gt;
+&lt;h2&gt;Des sous-entendus&lt;/h2&gt;
+&lt;p&gt;Difficile de dire ce qu'il en est réellement mais il semble bien que la DGSI
+envoie ou met ses données brutes (ou faiblement traitées) à disposition des
+américains.&lt;/p&gt;
+&lt;p&gt;Quoiqu'il en soit, ce n'est pas sans soulever de sérieuses questions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="des-questions-sans-reponses"&gt;
+&lt;h2&gt;Des questions sans réponses&lt;/h2&gt;
+&lt;p&gt;Les questions à se poser sont naturellement&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;le périmètre exact des données confiées,&lt;/li&gt;
+&lt;li&gt;la durée pour laquelle cette sous-traitance est prévue,&lt;/li&gt;
+&lt;li&gt;et quelle est la politique menée par la DGSI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="le-perimetre"&gt;
+&lt;h3&gt;Le périmètre&lt;/h3&gt;
+&lt;p&gt;Dès lors que l'on confie le traitement de données, on confie les données. Il
+existe des solutions pour s'assurer de conserver l'intégrité des données lues.
+&lt;em&gt;Bien sûr, lorsqu'il est question de données collectées par un service de
+renseignement, ce n'est pas le premier enjeux&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Voici pourquoi ça nous concerne tous&amp;nbsp;:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="alert alert-danger important"&gt;
+&lt;p class="first admonition-title"&gt;Important&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;Quelles sont les données ainsi mises à disposition&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Comment les données sont-elles récoltées&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Les citoyens vivants en France sont-ils concernés&amp;nbsp;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;...Et au-delà des intentions, sans doute louables&amp;nbsp;:&lt;/p&gt;
+&lt;div class="alert alert-danger important"&gt;
+&lt;p class="first admonition-title"&gt;Important&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;Ces données sont-elles pré-traitées&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Ces données sont-elles filtrées&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Existe-t-il un process de contrôle de ce qui est mis à disposition&amp;nbsp;?
+Si oui, est-il algoritmique ou humain&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Qui décide du périmètre&amp;nbsp;? Les politiques&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Le périmètre peut-il être amené à être modifié&amp;nbsp;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;...Car ça devient délicat&amp;nbsp;:&lt;/p&gt;
+&lt;div class="alert alert-danger important"&gt;
+&lt;p class="first admonition-title"&gt;Important&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;A-t-on prévu et pensé à tous les détournements possibles de l'utilisation de
+ces données&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Quid de l'espionnage industriel&amp;nbsp;? Du respect de la vie privée&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Quels impacts pour les détournements possibles&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Quels sont les aspects menant à cette décision qui ont été mal-estimés (car
+il y en a toujours, qu'on le veuille ou non)&amp;nbsp;? À quel degré&amp;nbsp;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-politique"&gt;
+&lt;h3&gt;La politique&lt;/h3&gt;
+&lt;p&gt;Les services de renseignement sont visiblement réactifs. Ils récoltent des
+données d'espionnage. Au passage, on se demande s'ils sont également pro-actifs.&lt;/p&gt;
+&lt;div class="alert alert-info note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p&gt;La &lt;strong&gt;réactivité&lt;/strong&gt;, c'est &lt;em&gt;agir en réponse&lt;/em&gt; (dans un temps correct).&lt;/p&gt;
+&lt;p class="last"&gt;Être &lt;strong&gt;pro-actif&lt;/strong&gt;, c'est &lt;em&gt;anticiper les questions et leurs réponses&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;La DGSI a un sérieux train de retard. Le Big Data, ça fait quelques dizaines
+d'années que cela existe. &lt;strong&gt;Pourtant, elle aparaît inapte dans ce domaine&lt;/strong&gt; et
+s'avoue dépassée par la quantité de données à traiter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il ne va pas sans dire que c'est surprenant quand on sait qu'on est
+mondialement parmis les leaders dans ce domaine d'expertise.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="alert alert-danger important"&gt;
+&lt;p class="first admonition-title"&gt;Important&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;La sous-traitance est-elle utilisée comme moyen de contourner des Lois
+jugées trop restrictives&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Doit-on donner à groupe restreint de fonctionnaires (ou assimilés) le
+pouvoir de mettre à dispositions une grande quantité de données jugées
+sensibles&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Peut-on laisser une administration mettre notre indépendance et notre
+démocratie dans la banlance&amp;nbsp;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;Qui contrôle cette politique&amp;nbsp;? Comment&amp;nbsp;?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="des-inquietudes-legitimes"&gt;
+&lt;h2&gt;Des inquiétudes légitimes&lt;/h2&gt;
+&lt;p&gt;Une des raisons pour lesquelles cette pratique est dangereuse est justement le
+fait qu'&lt;strong&gt;il s'agit visiblement de grandes quantités de données&lt;/strong&gt;. Trop grandes
+pour les moyens de la DGSI.  Dès lors, il est logique de penser que les données
+partagées sont brutes ou, au mieux, qu'elles sont exposées après un traitement
+très faible.&lt;/p&gt;
+&lt;p&gt;Or, si ces données sont grandes et sans filtrage, c'est très probablement parce
+qu'elles sont &lt;strong&gt;massivement&lt;/strong&gt; récoltées.  Il est évident que de telles quantités
+de données peuvent alors aisément être &lt;strong&gt;détournées&lt;/strong&gt; et utilisées à d'autres
+fin que celles prévues.&lt;/p&gt;
+&lt;p&gt;Dès lors, il convient de sérieusement &lt;strong&gt;questionner la compétence des
+décideurs&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Par ailleurs, que font la DGSI et le gouvernement pour éviter d'avoir recours à
+de telles pratiques dans un avenir proche&amp;nbsp;?&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="France"></category><category term="Sécurité"></category><category term="Big Data"></category></entry><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article (oui mais non, le précédant ne compte pas vraiment !),
 nous voici plongé dans une belle actu. Trois français ont ainsi été honorés pour
 leurs travaux dans les domaines phares du numérique.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -96,21 +212,4 @@ vous ce que les données brutes ne disent pas directement.&lt;/li&gt;
 ce qu'il en fera vous dépasse complètement.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="Informatique"></category><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>L'ubiquité numérique</title><link href="http://nicolas.sebrecht.fr/lubiquite-numerique.html" rel="alternate"></link><published>2016-12-08T10:20:00+01:00</published><updated>2016-12-08T10:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-08:lubiquite-numerique.html</id><summary type="html">&lt;p&gt;Allons droit au but : &lt;strong&gt;&lt;em&gt;l'ubiquité informatique&lt;/em&gt;&lt;/strong&gt; (ou &lt;strong&gt;&lt;em&gt;intelligence
-ambiante&lt;/em&gt;&lt;/strong&gt;), vous ne connaissez peut-être pas. Et pourtant, il s'agit d'un
-thème de société majeur. &lt;strong&gt;Tout le monde est concerné&lt;/strong&gt;, absolument tout le
-monde ! Malheureusement, peu de monde en parle...&lt;/p&gt;
-&lt;p&gt;...Pas le temps ? Intérêts obligent ? Qu'importe. &lt;strong&gt;L'informatique opère des
-changements que nous pensons bien connaître. Pourtant, cela n'a jamais été aussi
-faux.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dans &lt;code&gt;Digital Side Effects&lt;/code&gt;, nous discuterons du numérique tel que personne n'en
-parle : &lt;em&gt;Edward Snowden, e-santé, big data, Wikileaks, objets connectés,
-Facebook,&lt;/em&gt; etc. Impossible de tous les citer.&lt;/p&gt;
-&lt;div class="bg-info"&gt;
-&lt;p&gt;Tous ces sujets cachent une réalité qu'il est important de maîtriser. &lt;strong&gt;Croire
-que c'est un sujet qui ne nous concerne pas encore est votre première erreur.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Les changements de société actuels et à venir dépendent des évolutions
-techniques et de ce que nous déciderons d'en faire.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Et si les professionnels du secteur n&amp;#39;en parlent pas, alors qui le fera ?
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="Informatique"></category><category term="Vie privée"></category></entry></feed>
+</summary><category term="Informatique"></category><category term="Big Data"></category><category term="Vie privée"></category></entry></feed>
