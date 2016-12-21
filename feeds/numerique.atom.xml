@@ -1,5 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-18T00:00:00+01:00</updated><entry><title>La DGSI inapte à gérer ses propres données</title><link href="http://nicolas.sebrecht.fr/la-dgsi-inapte-a-gerer-ses-propres-donnees.html" rel="alternate"></link><published>2016-12-18T00:00:00+01:00</published><updated>2016-12-18T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-18:la-dgsi-inapte-a-gerer-ses-propres-donnees.html</id><summary type="html">&lt;p&gt;La nouvelle laisse pantois. La DGSI, premier service de renseignement en France,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-20T00:00:00+01:00</updated><entry><title>Les objets connectés, vus par le CIGREF</title><link href="http://nicolas.sebrecht.fr/2016-12-20/les-objets-connectes-vus-par-le-cigref.html" rel="alternate"></link><published>2016-12-20T00:00:00+01:00</published><updated>2016-12-20T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-20:2016-12-20/les-objets-connectes-vus-par-le-cigref.html</id><summary type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
+voici quelques éléments clés.&lt;/p&gt;
+&lt;blockquote class="pull-quote"&gt;
+&lt;em&gt;Cisco prévoit que le nombre d’objets connectés à internet soit multiplié par
+dix en 8 ans conduisant à près de 250 milliards d’objet potentiellement
+connectés.&lt;/em&gt; (Avril 2011)&lt;/blockquote&gt;
+&lt;p&gt;Après avoir défini le sujet, l'ouvrage s'intéresse aux standards techniques,
+aux enjeux juridiques et éthiques, à la sécurité technique opérationnelle pour
+finir sur la problématique des usages. Les derniers chapîtres sont
+particulièrement orientés «&amp;nbsp;grandes entreprises&amp;nbsp;».&lt;/p&gt;
+&lt;p&gt;Cet ouvrage est plutôt bon quoiqu'il ne soulève que les questions éthiques les
+plus socialement acceptables, en évitant sagement d'aborder nombre d'excès réels
+ou potentiels. Normal pour un guide s'adressant aux entreprises&amp;nbsp;!&lt;/p&gt;
+&lt;div class="section" id="quelques-points-importants"&gt;
+&lt;h2&gt;Quelques points importants&lt;/h2&gt;
+&lt;div class="section" id="la-variabilite-des-systemes"&gt;
+&lt;h3&gt;La variabilité des systèmes&lt;/h3&gt;
+&lt;p&gt;La première chose à relever est la &lt;strong&gt;viariabilité des systèmes&lt;/strong&gt;. Les objets
+connectés prélèvent des données de différentes natures (localisation,
+température, images, poul, etc), utilisent des technologies variées et
+fournissent des fonctionnalités propres.&lt;/p&gt;
+&lt;p&gt;Plus important encore, ils s'interconnectent de bien des manières et les
+traitements sur les données sont non seulement très variés selon les firmes,
+mais ils varient aussi considérablement dans le temps.&lt;/p&gt;
+&lt;div class="alert  alert-info compound"&gt;
+&lt;p class="compound-first"&gt;Par exemple, les techniques de reconnaissance faciale permettent aujourd'hui
+d'identifier une personne à partir d'une photo datant de quelques années,
+voire plusieures dizaines d'années. Plus les traitements (logiciels) gagnent
+en efficacité, plus le champ des possibles est ouvert.&lt;/p&gt;
+&lt;p class="compound-last"&gt;Ainsi, à partir d'un même dépôt de données (ici des photos), il sera très
+vraissemblablement possible de réaliser des choses encore impossible
+aujourd'hui dans un avenir proche&amp;nbsp;: dans quel musée/bar cette photo a-t-elle
+été prise&amp;nbsp;? Avec qui&amp;nbsp;? Étiez vous censé vous trouver ailleurs au moment de la
+prise de vue&amp;nbsp;? Etc.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Dans ces conditions, l'ouvrage rappelle avec bon sens qu'il est très compliqué,
+&lt;em&gt;sinon impossible&lt;/em&gt;, de dresser un cadre juridique généraliste qui convienne. &lt;strong&gt;Ce
+qui est vrai.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;Cet aspect est particulièrement bien traité dans cette publication.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Des règles législatives pré-écrites pour chaque cas n'est en effet pas réaliste.
+C'est dans ce contexte que les objets connectés font leur essor.&lt;/p&gt;
+&lt;p&gt;C'est pourquoi il y est fait appel à une notion récente (mais bien réelle)&amp;nbsp;: les
+&lt;strong&gt;droits de la personnalité&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="les-droits-de-la-personnalite"&gt;
+&lt;h3&gt;Les droits de la personnalité&lt;/h3&gt;
+&lt;p&gt;Au delà du glissement sémantique relevé dans l'ouvrage (des «&amp;nbsp;données
+nomminatives&amp;nbsp;» aux «&amp;nbsp;données à caractère personnel&amp;nbsp;»), rappelons les principaux
+droits consacrés&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;le droit d'&lt;strong&gt;opposition&lt;/strong&gt;&amp;nbsp;;&lt;/li&gt;
+&lt;li&gt;le droit d'&lt;strong&gt;accès&lt;/strong&gt;&amp;nbsp;;&lt;/li&gt;
+&lt;li&gt;le droit de &lt;strong&gt;rectification&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Il n'existe pas de droit à l'oubli, quoique des avancées sont en cours.&lt;/p&gt;
+&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;&lt;em&gt;Il s'agit donc plus de principes de bases que de textes à lecture directe
+dont la traduction de ce qui est admis serait immédiate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En comparaison au droit à l'image, il convient également de noter deux champs
+d'applications&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;la captation, ou &lt;strong&gt;la collecte des données&lt;/strong&gt; pour les objets connectés&amp;nbsp;;&lt;/li&gt;
+&lt;li&gt;la diffusion, ou &lt;strong&gt;les traitements appliqués&lt;/strong&gt; sur les données collectées.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="alert  alert-info compound"&gt;
+&lt;p&gt;&lt;strong&gt;Les objets connectés sont un moyen de collecte. Les traitements sur les
+données collectées font appel à ce que l'on nomme plus généralement le «&amp;nbsp;Big
+Data&amp;nbsp;».&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="red"&gt;Et c'est là que ça devient délicat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="les-menaces-et-les-risques"&gt;
+&lt;h2&gt;Les menaces et les risques&lt;/h2&gt;
+&lt;p&gt;Il existe de nombreux pièges. Dans la publication du CIGREF, le texte original
+en présente les principaux (en se focalisant sur les objets). En voici donc un
+extrait qui parle de lui-même&amp;nbsp;:&lt;/p&gt;
+&lt;blockquote class="pull-quote"&gt;
+&lt;p&gt;À titre liminaire, M. Philippe Lemoine, commissaire de la CNIL, avait, dans
+une communication du 30 octobre 2003 sur le sujet de la radio-identification,
+identifié 4 pièges pouvant conduire à minorer le risque de l’IdO sur la
+protection des données personnelles et la vie privée&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;l’insignifiance [apparente] des données,&lt;/li&gt;
+&lt;li&gt;la priorité donnée aux objets [en apparence toujours vis-à-vis des
+personnes],&lt;/li&gt;
+&lt;li&gt;la logique de mondialisation [normalisation technologique basée sur un
+concept américain de «&amp;nbsp;privacy&amp;nbsp;»] sans prise en compte des principes
+européens de protection de la vie privée]&lt;/li&gt;
+&lt;li&gt;Le risque de «&amp;nbsp;non vigilance&amp;nbsp;» individuelle [présence et activation
+invisibles].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;le Web 2.0 était celui du web participatif et social, comme le désignait Tim
+O’Reilly. Ce dernier avait vu l’émergence d’un Internet ou l’utilisateur
+devenait acteur et auteur. Certains considèrent que les utilisateurs ont pris
+conscience du risque inhérent à l’usage de l’Internet et sauraient aujourd’hui
+maîtriser les méthodes permettant la protection de leur intimité.&lt;/p&gt;
+&lt;p&gt;Une telle assertion nous semble dangereuse sur trois points :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Premièrement, les moyens de capter des données se sont aujourd’hui
+multipliés et diversifiés. Donner son âge sur Facebook est-il la même chose
+que d’accepter un cookie intrusif ? de se déplacer avec son téléphone
+portable ou sa montre connectée ? La vigilance individuelle n’est
+aujourd’hui plus suffisante afin de garantir la protection de sa vie privée
+tant la collecte de donnée se généralise.&lt;/li&gt;
+&lt;li&gt;Dans un deuxième temps, un tel présupposé remettrait en cause le rôle des
+organes publics dans la protection de l’individu et conduirait à admettre
+qu’Internet serait une zone de droit non étatique.&lt;/li&gt;
+&lt;li&gt;Dans un troisième temps, il faut noter le caractère contaminant de l’usage
+des objets connectés sur les tiers. Ainsi, l’usage de Google glass n’impacte
+t-il uniquement que l’utilisateur ? une réponse négative ne peut que
+s’imposer et il importe donc que des règles protectrices soient mises en
+œuvre à un niveau dépassant l’utilisateur afin de protéger ceux qui subiront
+l’ usage d’objets connectés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’identification des risques inhérents aux objets connectés demeure encore
+aujourd’hui relativement incertaine, l’usage ayant toujours dépassé la pensée.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="alert  alert-success compound"&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;IdO&amp;nbsp;:&lt;/strong&gt; Internet des Objets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CNIL&amp;nbsp;:&lt;/strong&gt; &lt;a class="alert-link reference external" href="http://www.cnil.fr"&gt;Commission Nationale de l'Informatique et des
+Libertés&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;C'est sur ces mots que je décide de clore cet article. Tout n'est pas dit, mais
+on va s'arrêter là pour aujourd'hui.&lt;/p&gt;
+&lt;p class="lead"&gt;&lt;em&gt;C'est à chacun qu'il appartient d'approfondir sa réflexion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-retenir"&gt;
+&lt;h2&gt;À retenir&lt;/h2&gt;
+&lt;ol class="red arabic simple"&gt;
+&lt;li&gt;Il est compliqué pour l'exécutif de légiférer tant les usages et les
+technologies varient.&lt;/li&gt;
+&lt;li&gt;Le concept des droits de la personnalité s'installe comme une solution
+palliative.&lt;/li&gt;
+&lt;li&gt;Les droits de la personnalité trouvent rapidement leurs limites.&lt;/li&gt;
+&lt;li&gt;C'est un domaine qui est toujours fortement en mouvement.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="alert  alert-warning compound"&gt;
+&lt;p&gt;Pour ceux qui le souhaitent, voici le lien de la publication originale &lt;a class="alert-link reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les
+objets connectés&lt;/a&gt;. Il y a de grandes chances pour que je décide d'y revenir à
+l'avenir car d'autres notions méritent d'êtres abordées.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>La DGSI inapte à gérer ses propres données</title><link href="http://nicolas.sebrecht.fr/2016-12-18/la-dgsi-inapte-a-gerer-ses-propres-donnees.html" rel="alternate"></link><published>2016-12-18T00:00:00+01:00</published><updated>2016-12-18T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-18:2016-12-18/la-dgsi-inapte-a-gerer-ses-propres-donnees.html</id><summary type="html">&lt;p&gt;La nouvelle laisse pantois. La DGSI, premier service de renseignement en France,
 est incapable de gérer elle même les données récoltées. La solution trouvée&amp;nbsp;?
 Faire appel à... une entreprise aux États-Unis créée par la CIA.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -110,7 +258,7 @@ décideurs&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Par ailleurs, que font la DGSI et le gouvernement pour éviter d'avoir recours à
 de telles pratiques dans un avenir proche&amp;nbsp;?&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="France"></category><category term="Sécurité"></category><category term="Big Data"></category></entry><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article, nous voici plongé dans une belle actu&amp;nbsp;! Trois français
+</summary><category term="France"></category><category term="Sécurité"></category><category term="Big Data"></category></entry><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/2016-12-09/tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:2016-12-09/tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article, nous voici plongé dans une belle actu&amp;nbsp;! Trois français
 ont ainsi été honorés pour leurs travaux dans les domaines phares du numérique.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;em&gt;«&amp;nbsp;L'Association for Computing Machinery, qui attribue le prix Turing,
@@ -192,7 +340,7 @@ détaillera tout ceci au fur et à mesure, dans de prochains articles. ,-)&lt;/p
 &lt;/div&gt;
 &lt;div class="section" id="ce-qu-il-faut-retenir"&gt;
 &lt;h2&gt;Ce qu'il faut retenir&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
+&lt;ol class="red arabic simple"&gt;
 &lt;li&gt;&lt;strong&gt;Le plus important, c'est que les méthodes pour traiter vos données font
 l'objet d'études&lt;/strong&gt; très sérieuses.&lt;/li&gt;
 &lt;li&gt;La cible, bien souvent, c'est vous.&lt;/li&gt;
