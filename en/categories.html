@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+    <link href="http://nicolas.sebrecht.fr/en/images/logo/DSE-32x32.png" rel="icon">
 
 
         <meta name="author" content="Nicolas Sebrecht" />
@@ -41,7 +42,7 @@
 	<div class="container">
         <div class="navbar-header">
             <a href="http://nicolas.sebrecht.fr/en/" class="navbar-brand">
-Digital Side Effects            </a>
+<img class="img-responsive pull-left gap-right" src="http://nicolas.sebrecht.fr/en/images/logo/DSE-400x400.png" width="32"/> Digital Side Effects            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
@@ -53,10 +54,30 @@ Digital Side Effects            </a>
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
-<!-- End Banner -->
+<style>
+	#banner{
+	    background-image:url("http://nicolas.sebrecht.fr/en/images/logo/DSE-400x400.png");
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+		<div class="copy">
+			<h1>Digital Side Effects</h1>
+				<p class="intro">
+"Digital changes our lives",
+<a href="http://nicolas.sebrecht.fr">nicolas.sebrecht.fr</a>
+</p>
+		</div>
+	</div>
+</div><!-- End Banner -->
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+    <ol class="breadcrumb">
+        <li><a href="http://nicolas.sebrecht.fr/en" title="Digital Side Effects"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Categories</li>
+    </ol>
     <section id="categories">
         <h1>All Categories for Digital Side Effects</h1>
         <div class="panel-group" id="accordion">
@@ -76,6 +97,10 @@ Digital Side Effects            </a>
               </ul>
             </li>
 
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                <ul class="list-group" id="recentposts">
+                </ul>
+            </li>
 
             <li class="list-group-item"><a href="http://nicolas.sebrecht.fr/en/"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Categories</span></h4></a>
                 <ul class="list-group" id="categories">
@@ -83,7 +108,7 @@ Digital Side Effects            </a>
             </li>
 
             <li class="list-group-item"><a href="http://nicolas.sebrecht.fr/en/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group " id="tags">
+                <ul class="list-group list-inline tagcloud" id="tags">
                 </ul>
             </li>
 
@@ -112,6 +137,11 @@ Digital Side Effects            </a>
         </li>
       </ul>
     </li>
+    <li class="list-group-item">
+        <ul class="list-group" id="links">
+            <img width="100%" class="img-thumbnail" src="images/logo/DSE-400x400.png"/>
+        </ul>
+    </li>
     </ul>
 </section>
             </aside>
@@ -138,6 +168,7 @@ Digital Side Effects            </a>
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="http://nicolas.sebrecht.fr/en/../theme/js/respond.min.js"></script>
 
+    <script src="http://nicolas.sebrecht.fr/en/../theme/js/bodypadding.js"></script>
 
 </body>
 </html>
