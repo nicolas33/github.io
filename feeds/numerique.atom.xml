@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2016-12-22T00:00:00+01:00</updated><entry><title>Quelques brèves qu'il ne fallait pas manquer</title><link href="http://nicolas.sebrecht.fr/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer.html" rel="alternate"></link><published>2016-12-22T00:00:00+01:00</published><updated>2016-12-22T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-22:2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer.html</id><summary type="html">&lt;h4&gt;Ces entreprises qui vous veulent du bien&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-01-16T00:00:00+01:00</updated><entry><title>Des données aux origines insoupçonnées</title><link href="http://nicolas.sebrecht.fr/2017-01-16-des-donnees-aux-origines-insoupconnees.html" rel="alternate"></link><published>2017-01-16T00:00:00+01:00</published><updated>2017-01-16T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-16:2017-01-16-des-donnees-aux-origines-insoupconnees.html</id><summary type="html">&lt;p&gt;Avant, bien peu de monde aurait permis à une entreprise de venir écouter
+directement chez soi ce qu'il s'y passe. Mais ça, c'était avant. Avec les objets
+connectés, le champ des possibles s'est ouvert. Tant que la majorité préfère ne
+pas s'en soucier, il y a fort à parier que la tendance se confirme.&lt;/p&gt;
+&lt;blockquote class="pull-quote"&gt;
+Un groupe de chercheurs a découvert que les jouets connectés, capables de
+tenir une conversation naturelle avec un enfant, peuvent être utilisés à
+mauvais escient pour dérober des données au sujet des utilisateurs. (décembre
+2016, &lt;a class="reference external" href="http://www.lebigdata.fr/jouets-voleurs-donnees-2212"&gt;lebigdata.fr&lt;/a&gt;)&lt;/blockquote&gt;
+&lt;div class="section" id="les-tendances"&gt;
+&lt;h2&gt;Les tendances&lt;/h2&gt;
+&lt;p&gt;Intéressons nous d'abord aux tendances&amp;nbsp;: les objets connectés se multiplient et
+leurs capacités sont toujours plus étonnantes.&lt;/p&gt;
+&lt;div class="section" id="la-multiplication-des-sources"&gt;
+&lt;h3&gt;La multiplication des sources&lt;/h3&gt;
+&lt;p&gt;Qu'y a-t-il d'étonnant à trouver des jouets qui mettent enfants et familles sur
+écoute&amp;nbsp;? Après tout, ils ne sont pas les seuls et ce ne sont pas les premiers&amp;nbsp;:
+smartphones, montres, consoles, etc.&lt;/p&gt;
+&lt;p class="red"&gt;Point important, la première tendance est la multiplication en nombre des
+possibilités d'intrusion.&lt;/p&gt;
+&lt;div class="alert  alert-success compound"&gt;
+&lt;p&gt;L'intrusion n'est pas nécessairement un exploit. Elle peut aussi être plus ou
+moins connue et acceptée. L'intrusion est constituée dès lors que la vie
+personnelle est &lt;strong&gt;exposée&lt;/strong&gt; à des tiers, publiquement ou non.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="des-capacites-toujours-plus-etonnantes"&gt;
+&lt;h3&gt;Des capacités toujours plus étonnantes&lt;/h3&gt;
+&lt;p&gt;Que font donc ces jouets&amp;nbsp;? Ils répondent à la voix. Il est dès lors aisé de
+justifier (d'accpeter&amp;nbsp;?) l'envoi de données privées et personnelles chez des
+tiers pour la reconnaissance vocale.&lt;/p&gt;
+&lt;p class="red"&gt;Ici aussi la tendance est la multiplication des possibilités d'intrusion, mais
+en terme qualitatif cette fois. La nature des données récoltées évolue avec les
+technologies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="des-temps-d-exposition-toujours-croissant"&gt;
+&lt;h3&gt;Des temps d'exposition toujours croissant&lt;/h3&gt;
+&lt;p&gt;Si les temps d'exposition vont croissants, c'est en partie parce que les objets
+se multiplient dans nos vies.&lt;/p&gt;
+&lt;p&gt;Mais pas seulement. La durée d'autonomie des objets augmente elle aussi. Les
+capacités de récolte (bande passante, stockage, etc) augmentent.&lt;/p&gt;
+&lt;p class="red"&gt;La tendance est à la diminution de la vie privée. On doit attendre des objets
+connectés qu'ils &lt;strong&gt;bouleversent&lt;/strong&gt; le status quo et &lt;em&gt;provoquer l'inversion des
+durées entre vie privée et vie exposée&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="un-cocktail-explosif"&gt;
+&lt;h3&gt;Un cocktail explosif&lt;/h3&gt;
+&lt;p&gt;Jusque-là, la principale question était de gérer sa vie privée en gérant sa vie
+publique. Il convient aujourd'hui d'ajouter une nouvelle forme de vie, un peu
+intermédiaire entre les précédentes mais pas sans conséquences&amp;nbsp;: la &lt;strong&gt;vie
+exposée&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Car les qualificatifs sont toujours manquants dans la presse&amp;nbsp;: quand il y est
+question d'intrusion, il est systématiquement le fait de pirates. Quand il y a
+détournement, c'est nécessairement par des malfrats. Rien ou très peu concernant
+les entreprises elles-mêmes.&lt;/p&gt;
+&lt;p&gt;Posons-nous quelques questions&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Qui récolte les données&amp;nbsp;? Dans quel pays et avec quelle législation&amp;nbsp;? Le
+savons-nous vraiment&amp;nbsp;? Les fabriquants communiquent-ils autour de ces
+questions&amp;nbsp;? Y a-t-il des sous-traitants&amp;nbsp;? Qui sont-ils&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;Il y a quelques années, aurions-nous accepté que les fabriquants installent
+des micros dans les maisons pour y écouter ce qu'il s'y passe&amp;nbsp;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="red"&gt;En multitpliant le nombre des objets connectés et en les cumulant sous
+différentes formes, parfois avec consentement, la vie dite «&amp;nbsp;privée&amp;nbsp;» n'en n'est
+plus vraiment une.&lt;/p&gt;
+&lt;p&gt;Nous exposons toujours plus de notre vie privée à des tiers, le plus souvent
+sans savoir réellement à qui. Ni ce qu'ils en font.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-retenir"&gt;
+&lt;h2&gt;À retenir&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Les objets connectés vont faire bouger les lignes à grande échelle et dans une
+mesure insoupçonnée.&lt;/li&gt;
+&lt;li&gt;La &lt;em&gt;vie privée&lt;/em&gt; va continuellement s'effacer au profit d'une forme de &lt;em&gt;vie
+exposée&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="alert  alert-danger compound"&gt;
+&lt;p&gt;Il est bon de garder à l'esprit que le niveau d'exposition de nos vies n'a
+jamais été aussi grand et que la tendance n'est pas prête de s'inverser.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Big Data"></category><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Quelques brèves qu'il ne fallait pas manquer</title><link href="http://nicolas.sebrecht.fr/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer.html" rel="alternate"></link><published>2016-12-22T00:00:00+01:00</published><updated>2016-12-22T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-22:2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer.html</id><summary type="html">&lt;h4&gt;Ces entreprises qui vous veulent du bien&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;07/12/2016 : &lt;a href="http://www.01net.com/actualites/apple-aimerait-bien-stocker-tous-nos-papiers-d-identite-1067904.html"&gt;Apple aimerait bien stocker tous nos papiers d’identité&lt;/a&gt;,
@@ -258,7 +341,7 @@ données d'espionnage. Au passage, on se demande s'ils sont également pro-actif
 &lt;p class="compound-last"&gt;Être &lt;strong&gt;pro-actif&lt;/strong&gt;, c'est &lt;em&gt;anticiper les questions et leurs réponses&lt;/em&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;La DGSI a un sérieux train de retard. Le Big Data, ça fait quelques dizaines
-d'années que cela existe. &lt;strong&gt;Pourtant, elle aparaît inapte dans ce domaine&lt;/strong&gt; et
+d'années que cela existe. &lt;strong&gt;Pourtant, elle apparaît inapte dans ce domaine&lt;/strong&gt; et
 s'avoue dépassée par la quantité de données à traiter.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Il ne va pas sans dire que c'est surprenant quand on sait qu'on est
 mondialement parmis les leaders dans ce domaine d'expertise.&lt;/strong&gt;&lt;/p&gt;
@@ -266,7 +349,7 @@ mondialement parmis les leaders dans ce domaine d'expertise.&lt;/strong&gt;&lt;/
 &lt;ul class="simple"&gt;
 &lt;li&gt;La sous-traitance est-elle utilisée comme moyen de contourner des Lois
 jugées trop restrictives&amp;nbsp;?&lt;/li&gt;
-&lt;li&gt;Doit-on donner à groupe restreint de fonctionnaires (ou assimilés) le
+&lt;li&gt;Doit-on donner à un groupe restreint de fonctionnaires (ou assimilés) le
 pouvoir de mettre à dispositions une grande quantité de données jugées
 sensibles&amp;nbsp;?&lt;/li&gt;
 &lt;li&gt;Peut-on laisser une administration mettre notre indépendance et notre
