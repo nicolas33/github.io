@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/all.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-01-16T00:00:00+01:00</updated><entry><title>Des données aux origines insoupçonnées</title><link href="http://nicolas.sebrecht.fr/2017-01-16-des-donnees-aux-origines-insoupconnees.html" rel="alternate"></link><published>2017-01-16T00:00:00+01:00</published><updated>2017-01-16T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-16:2017-01-16-des-donnees-aux-origines-insoupconnees.html</id><summary type="html">&lt;p&gt;Avant, bien peu de monde aurait permis à une entreprise de venir écouter
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/all.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-01-17T00:00:00+01:00</updated><entry><title>L'aspect contaminant de l'usage des objets connectés</title><link href="http://nicolas.sebrecht.fr/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html" rel="alternate"></link><published>2017-01-17T00:00:00+01:00</published><updated>2017-01-17T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-17:2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html</id><summary type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
+le fait de ne pas seulement collecter nos propres informations mais aussi celle
+des autres.&lt;/p&gt;
+&lt;div class="section" id="la-contamination-par-l-exemple"&gt;
+&lt;h2&gt;La contamination par l'exemple&lt;/h2&gt;
+&lt;div class="section" id="adresse-postale-adresse-mail-et-numeros-de-telephone"&gt;
+&lt;h3&gt;Adresse postale, adresse mail et numéros de téléphone&lt;/h3&gt;
+&lt;p&gt;Vous avez un iPhone et vous pensez que Google ne vous connaît pas (ou
+inversement)&amp;nbsp;?  N'avez vous réellement commnuniqué votre numéro à personne&amp;nbsp;?&lt;/p&gt;
+&lt;p&gt;Sinon, il y a fort à parier que vous êtes dans le catalogue des contacts de vos
+propres contacts. Avec les services de synchronisation «&amp;nbsp;dans le cloud&amp;nbsp;», vos
+renseignements ont donc été enregistrés chez des tiers. Cerise sur la gâteaux,
+&lt;em&gt;ces entreprises n'ont même pas eu à vous chercher&lt;/em&gt;.&lt;/p&gt;
+&lt;div class="alert  alert-success compound"&gt;
+&lt;p&gt;Évidemment, ces services sont &lt;strong&gt;systématiquement gratuits&lt;/strong&gt; et &lt;strong&gt;activés&lt;/strong&gt; par
+défaut.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="facebook"&gt;
+&lt;h3&gt;Facebook&lt;/h3&gt;
+&lt;p&gt;Même question. Vous n'avez pas de compte Facebook et vous pensez que chez
+Facebook on ne vous connaît pas&amp;nbsp;?&lt;/p&gt;
+&lt;p&gt;Pas si sûr. Par exemple, l'application de messagerie instantanée Whatsapp pour
+smartphone (propriété Facebook) requiert l'accès à l'historique des appels, aux
+catalogue des contacts, aux SMS et j'en passe. Autant d'autorisations qui sont
+un moyen de collecte.&lt;/p&gt;
+&lt;p&gt;Autre exemple, Facebook permet de «&amp;nbsp;tagguer&amp;nbsp;» des photos. Ainsi, il est possible
+qu'une de vos connaissances ait publié une photo où vous êtes et que vous y
+soyez taggué avec votre nom.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="les-objets-connectes"&gt;
+&lt;h2&gt;Les objets connectés&lt;/h2&gt;
+&lt;div class="alert  alert-danger compound"&gt;
+&lt;p&gt;&lt;strong&gt;Les objets connectés ne font aucune distinction entre son propriétaire et les
+autres&lt;/strong&gt;.  Par conséquent, ils sont une plaie pour la maîtrise de sa vie privée.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Caméra, micros et tous les moyens de communication intégrés sont autant d'outils
+à disposition&amp;nbsp;: lunettes, appareils photos, caméras, GPS, webcam, voitures,
+jouets, etc. Tous ces appareils sont de plus en plus connectés et susceptibles
+de collecter vos données. S'ils sont souvent «&amp;nbsp;high-tech&amp;nbsp;» aujourd'hui, pas
+besoin d'être devin pour voir qu'ils seront probablement la norme demain.&lt;/p&gt;
+&lt;div class="alert  alert-success compound"&gt;
+&lt;p class="compound-first"&gt;Quelques exemples concrets&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="compound-last simple"&gt;
+&lt;li&gt;&lt;a class="alert-link reference external" href="http://www.01net.com/actualites/ces-2017-ce-beau-velo-connecte-tourne-sous-android-1078069.html"&gt;01net, 06 janvier 2017, ce beau vélo connecté tourne sous Android !&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="alert-link reference external" href="http://www.lemondeinformatique.fr/actualites/lire-ces-2017-microsoft-lance-des-services-cloud-pour-les-constructeurs-de-voitures-66988.html"&gt;lemondeinformatique, 06 janvier 2017, Microsoft lance des services cloud pour les constructeurs de voitures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="alert-link reference external" href="https://www.cnil.fr/fr/ou-piloter-son-drone-de-loisir-et-quelles-precautions-en-matiere-de-vie-privee"&gt;CNIL, 26 déc 2016, Où piloter son drone de loisir et quelles précautions en matière de vie privée ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="alert-link reference external" href="https://blog.kaspersky.fr/scary-big-data/4810/"&gt;Kaspersky, 25 août 2015, les dangers du Big Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="le-risque"&gt;
+&lt;h2&gt;Le risque&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Le risque, c'est de perdre en grande partie sa capacité à gérer sa vie privée.
+Vis à vis des tiers d'abord (les entreprises), mais aussi des pirates car les
+objets connectés sont par définition très exposés, peu sécurisés et plus
+rarement mis à jour...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;CIGREF, 2014, Sécurité des objets connectés (pdf)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Des données aux origines insoupçonnées</title><link href="http://nicolas.sebrecht.fr/2017-01-16-des-donnees-aux-origines-insoupconnees.html" rel="alternate"></link><published>2017-01-16T00:00:00+01:00</published><updated>2017-01-16T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-16:2017-01-16-des-donnees-aux-origines-insoupconnees.html</id><summary type="html">&lt;p&gt;Avant, bien peu de monde aurait permis à une entreprise de venir écouter
 directement chez soi ce qu'il s'y passe. Mais ça, c'était avant. Avec les objets
 connectés, le champ des possibles s'est ouvert. Tant que la majorité préfère ne
 pas s'en soucier, il y a fort à parier que la tendance se confirme.&lt;/p&gt;
