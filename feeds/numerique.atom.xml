@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-01-17T00:00:00+01:00</updated><entry><title>L'aspect contaminant de l'usage des objets connectés</title><link href="http://nicolas.sebrecht.fr/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html" rel="alternate"></link><published>2017-01-17T00:00:00+01:00</published><updated>2017-01-17T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-17:2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html</id><summary type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
-le fait de ne pas seulement collecter nos propres informations mais aussi celle
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects - Numérique</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/numerique.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-01-17T00:00:00+01:00</updated><entry><title>L'aspect contaminant de l'usage des objets connectés</title><link href="http://nicolas.sebrecht.fr/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html" rel="alternate"></link><published>2017-01-17T00:00:00+01:00</published><updated>2017-01-17T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-17:/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html</id><summary type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
+le fait de ne pas seulement collecter nos propres informations mais aussi celles
+des …&lt;/p&gt;</summary><content type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
+le fait de ne pas seulement collecter nos propres informations mais aussi celles
 des autres.&lt;/p&gt;
 &lt;div class="section" id="la-contamination-par-l-exemple"&gt;
 &lt;h2&gt;La contamination par l'exemple&lt;/h2&gt;
@@ -33,7 +35,7 @@ soyez taggué avec votre nom.&lt;/p&gt;
 &lt;div class="section" id="les-objets-connectes"&gt;
 &lt;h2&gt;Les objets connectés&lt;/h2&gt;
 &lt;div class="alert  alert-danger compound"&gt;
-&lt;p&gt;&lt;strong&gt;Les objets connectés ne font aucune distinction entre son propriétaire et les
+&lt;p&gt;&lt;strong&gt;Les objets connectés ne font aucune distinction entre leur propriétaire et les
 autres&lt;/strong&gt;.  Par conséquent, ils sont une plaie pour la maîtrise de sa vie privée.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Caméra, micros et tous les moyens de communication intégrés sont autant d'outils
@@ -59,7 +61,8 @@ objets connectés sont par définition très exposés, peu sécurisés et plus
 rarement mis à jour...&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;CIGREF, 2014, Sécurité des objets connectés (pdf)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Des données aux origines insoupçonnées</title><link href="http://nicolas.sebrecht.fr/2017-01-16-des-donnees-aux-origines-insoupconnees.html" rel="alternate"></link><published>2017-01-16T00:00:00+01:00</published><updated>2017-01-16T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-16:2017-01-16-des-donnees-aux-origines-insoupconnees.html</id><summary type="html">&lt;p&gt;Avant, bien peu de monde aurait permis à une entreprise de venir écouter
+</content><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Des données aux origines insoupçonnées</title><link href="http://nicolas.sebrecht.fr/2017-01-16-des-donnees-aux-origines-insoupconnees.html" rel="alternate"></link><published>2017-01-16T00:00:00+01:00</published><updated>2017-01-16T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-16:/2017-01-16-des-donnees-aux-origines-insoupconnees.html</id><summary type="html">&lt;p&gt;Avant, bien peu de monde aurait permis à une entreprise de venir écouter
+directement chez soi ce qu'il s'y passe. Mais ça, c'était avant. Avec les …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Avant, bien peu de monde aurait permis à une entreprise de venir écouter
 directement chez soi ce qu'il s'y passe. Mais ça, c'était avant. Avec les objets
 connectés, le champ des possibles s'est ouvert. Tant que la majorité préfère ne
 pas s'en soucier, il y a fort à parier que la tendance se confirme.&lt;/p&gt;
@@ -88,7 +91,7 @@ personnelle est &lt;strong&gt;exposée&lt;/strong&gt; à des tiers, publiquement
 &lt;div class="section" id="des-capacites-toujours-plus-etonnantes"&gt;
 &lt;h3&gt;Des capacités toujours plus étonnantes&lt;/h3&gt;
 &lt;p&gt;Que font donc ces jouets&amp;nbsp;? Ils répondent à la voix. Il est dès lors aisé de
-justifier (d'accpeter&amp;nbsp;?) l'envoi de données privées et personnelles chez des
+justifier (d'accepter&amp;nbsp;?) l'envoi de données privées et personnelles chez des
 tiers pour la reconnaissance vocale.&lt;/p&gt;
 &lt;p class="red"&gt;Ici aussi la tendance est la multiplication des possibilités d'intrusion, mais
 en terme qualitatif cette fois. La nature des données récoltées évolue avec les
@@ -142,41 +145,10 @@ exposée&lt;/em&gt;.&lt;/li&gt;
 jamais été aussi grand et que la tendance n'est pas prête de s'inverser.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="Big Data"></category><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Quelques brèves qu'il ne fallait pas manquer</title><link href="http://nicolas.sebrecht.fr/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer.html" rel="alternate"></link><published>2016-12-22T00:00:00+01:00</published><updated>2016-12-22T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-22:2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer.html</id><summary type="html">&lt;h4&gt;Ces entreprises qui vous veulent du bien&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;07/12/2016 : &lt;a href="http://www.01net.com/actualites/apple-aimerait-bien-stocker-tous-nos-papiers-d-identite-1067904.html"&gt;Apple aimerait bien stocker tous nos papiers d’identité&lt;/a&gt;,
-  &lt;em&gt;(&lt;a href="http://www.01net.com"&gt;01net&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Pourquoi ne pas offrir tous nos papiers d'indentité ?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;20/12/2016 : &lt;a href="http://www.01net.com/actualites/mark-zuckerberg-s-est-cree-une-intelligence-artificielle-domotique-et-ca-fait-peur-1072920.html"&gt;Mark Zuckerberg s’est créé une intelligence artificielle domotique (et ça
-  fait peur)&lt;/a&gt;,
-  &lt;em&gt;(&lt;a href="http://www.01net.com"&gt;01net&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Des micros allumés 24h/7 chez vous et des droits d'accès pour petits rois.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;30/11/2016 : &lt;a href="https://blog.kaspersky.fr/free-your-digital-life/6366/"&gt;Reprenez le contrôle de votre vie
-    numérique&lt;/a&gt;
-    &lt;em&gt;(&lt;a href="https://blog.kaspersky.fr"&gt;kaspersky&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Un titre un peu racolleur mais qui s'intéresse à un vrai sujet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;La protection des personnes&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;17/11/2016 : &lt;a href="https://www.cnil.fr/fr/ce-que-change-la-loi-pour-une-republique-numerique-pour-la-protection-des-donnees-personnelles"&gt;Ce que change la loi pour une République numérique pour la protection des
-  données personnelles&lt;/a&gt;,
-  &lt;em&gt;(&lt;a href="http://www.cnil.fr"&gt;CNIL&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Le droit à l’autodétermination de ses données et un nouveau droit à l'oubli
-pour les mineurs.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Les cyber-guerres&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;13/12/2016 : &lt;a href="http://www.lemondeinformatique.fr/actualites/lire-la-france-cree-un-commandement-cyberdefense-66778.html"&gt;La France crée un commandement cyberdéfense&lt;/a&gt;,
-    &lt;em&gt;(&lt;a href="http://www.lemondeinformatique.fr"&gt;lemondeinformatique&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Sécurité"></category><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>Les objets connectés, vus par le CIGREF</title><link href="http://nicolas.sebrecht.fr/2016-12-20-les-objets-connectes-vus-par-le-cigref.html" rel="alternate"></link><published>2016-12-20T00:00:00+01:00</published><updated>2016-12-20T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-20:2016-12-20-les-objets-connectes-vus-par-le-cigref.html</id><summary type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
+</content><category term="Big Data"></category><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Les objets connectés, vus par le CIGREF</title><link href="http://nicolas.sebrecht.fr/2016-12-20-les-objets-connectes-vus-par-le-cigref.html" rel="alternate"></link><published>2016-12-20T00:00:00+01:00</published><updated>2016-12-20T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-20:/2016-12-20-les-objets-connectes-vus-par-le-cigref.html</id><summary type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
+voici quelques éléments clés.&lt;/p&gt;
+&lt;blockquote class="pull-quote"&gt;
+&lt;em&gt;Cisco prévoit que le nombre d’objets connectés …&lt;/em&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
 voici quelques éléments clés.&lt;/p&gt;
 &lt;blockquote class="pull-quote"&gt;
 &lt;em&gt;Cisco prévoit que le nombre d’objets connectés à internet soit multiplié par
@@ -324,7 +296,9 @@ objets connectés&lt;/a&gt;. Il y a de grandes chances pour que je décide d'y r
 l'avenir car d'autres notions méritent d'êtres abordées.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>La DGSI inapte à gérer ses propres données</title><link href="http://nicolas.sebrecht.fr/2016-12-18-la-dgsi-inapte-a-gerer-ses-propres-donnees.html" rel="alternate"></link><published>2016-12-18T00:00:00+01:00</published><updated>2016-12-18T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-18:2016-12-18-la-dgsi-inapte-a-gerer-ses-propres-donnees.html</id><summary type="html">&lt;p&gt;La nouvelle laisse pantois. La DGSI, premier service de renseignement en France,
+</content><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>La DGSI inapte à gérer ses propres données</title><link href="http://nicolas.sebrecht.fr/2016-12-18-la-dgsi-inapte-a-gerer-ses-propres-donnees.html" rel="alternate"></link><published>2016-12-18T00:00:00+01:00</published><updated>2016-12-18T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-18:/2016-12-18-la-dgsi-inapte-a-gerer-ses-propres-donnees.html</id><summary type="html">&lt;p&gt;La nouvelle laisse pantois. La DGSI, premier service de renseignement en France,
+est incapable de gérer elle même les données récoltées. La solution trouvée&amp;nbsp;?
+Faire appel …&lt;/p&gt;</summary><content type="html">&lt;p&gt;La nouvelle laisse pantois. La DGSI, premier service de renseignement en France,
 est incapable de gérer elle même les données récoltées. La solution trouvée&amp;nbsp;?
 Faire appel à... une entreprise aux États-Unis créée par la CIA.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -435,7 +409,8 @@ décideurs&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Par ailleurs, que font la DGSI et le gouvernement pour éviter d'avoir recours à
 de telles pratiques dans un avenir proche&amp;nbsp;?&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="France"></category><category term="Sécurité"></category><category term="Big Data"></category></entry><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/2016-12-09-tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:2016-12-09-tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article, nous voici plongé dans une belle actu&amp;nbsp;! Trois français
+</content><category term="France"></category><category term="Sécurité"></category><category term="Big Data"></category></entry><entry><title>Tout détail sur votre vie compte pour quelqu'un</title><link href="http://nicolas.sebrecht.fr/2016-12-09-tout-detail-sur-votre-vie-compte-pour-quelquun.html" rel="alternate"></link><published>2016-12-09T16:20:00+01:00</published><updated>2016-12-09T16:20:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-09:/2016-12-09-tout-detail-sur-votre-vie-compte-pour-quelquun.html</id><summary type="html">&lt;p&gt;Pour ce premier article, nous voici plongé dans une belle actu&amp;nbsp;! Trois français
+ont ainsi été honorés pour leurs travaux dans les domaines phares du numérique …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pour ce premier article, nous voici plongé dans une belle actu&amp;nbsp;! Trois français
 ont ainsi été honorés pour leurs travaux dans les domaines phares du numérique.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;em&gt;«&amp;nbsp;L'Association for Computing Machinery, qui attribue le prix Turing,
@@ -531,4 +506,4 @@ vous ce que les données brutes ne disent pas directement.&lt;/li&gt;
 ce qu'il en fera vous dépasse complètement.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="Informatique"></category><category term="Big Data"></category><category term="Vie privée"></category></entry></feed>
+</content><category term="Informatique"></category><category term="Big Data"></category><category term="Vie privée"></category></entry></feed>
