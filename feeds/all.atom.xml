@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/all.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-01-17T00:00:00+01:00</updated><entry><title>L'aspect contaminant de l'usage des objets connectés</title><link href="http://nicolas.sebrecht.fr/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html" rel="alternate"></link><published>2017-01-17T00:00:00+01:00</published><updated>2017-01-17T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-17:/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html</id><summary type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/all.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-03-11T00:00:00+01:00</updated><entry><title>Quelques brèves qu'il ne fallait pas manquer (Mars 2017)</title><link href="http://nicolas.sebrecht.fr/2017-03-11-quelques-breves-quil-ne-fallait-pas-manquer-mars-2017.html" rel="alternate"></link><published>2017-03-11T00:00:00+01:00</published><updated>2017-03-11T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-03-11:/2017-03-11-quelques-breves-quil-ne-fallait-pas-manquer-mars-2017.html</id><summary type="html"></summary><content type="html">&lt;div class="section" id="aux-usa"&gt;
+&lt;h2&gt;Aux USA&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;07/03/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/wikileaks-devoile-l-incroyable-arsenal-des-hackers-de-la-cia-1116996.html"&gt;L'arsenal de la CIA pour espionner&lt;/a&gt;.
+&lt;strong&gt;Il s'agit sans soute de l'actualité la plus importante&lt;/strong&gt;. La CIA cible
+notamment les équipements faiblement sécurisés comme les objets connectés.&lt;/li&gt;
+&lt;li&gt;09/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.lemondeinformatique.fr/actualites/lire-us-le-projet-de-collecte-des-mots-de-passe-des-reseaux-sociaux-inquiete-67327.html"&gt;Quand un État souhaite carrément obliger des civils à fournir
+leurs mots de passes !&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="internet"&gt;
+&lt;h2&gt;Internet&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;07/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.numerama.com/tech/230467-bots-plus-de-la-moitie-du-trafic-web-mondial-ne-provient-pas-des-humains.html"&gt;Vous pensiez générer du traffic&amp;nbsp;?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="machine-learning"&gt;
+&lt;h2&gt;Machine learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;N/C&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/les-algorithmes-en-citations"&gt;Quelques citations pour se détendre :-)&lt;/a&gt;. Le plus intéressant
+est le PDF de la table ronde (en bas de page). Extrait&amp;nbsp;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«&amp;nbsp;on passe aujourd’hui d’un monde de programmation à un monde
+d’apprentissage. La programmation, l’exécution existe depuis près d’un
+siècle, c’est une réponse à un besoin exprimé, le programme exécute ce pour
+quoi il a été conçu. On se dirige désormais vers un monde d’apprentissage,
+on apprend à un système à raisonner, à penser, qu’est-ce qui est juste,
+qu’est-ce qui ne l’est pas etc…&amp;nbsp;».&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="proteger-sa-vie-privee"&gt;
+&lt;h2&gt;Protéger sa vie privée&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;10/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.lemondeinformatique.fr/actualites/lire-un-app-pour-bloquer-la-collecte-de-donnees-sur-android-67343.html"&gt;Une app android pour mieux se protéger (requiert un terminal
+rooté)&lt;/a&gt;. On ne comprend pas bien pourquoi Google n'active pas ce type de fonctionnalité par défaut...&lt;/li&gt;
+&lt;li&gt;28/02/2017&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/jouets-connectes-quels-conseils-pour-les-securiser"&gt;Se protéger des jouets connectés&lt;/a&gt;.
+Nous en parlions il y a peu. Voici une brève de la &lt;a class="reference external" href="https://www.cnil/fr"&gt;CNIL&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;11/01/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/comment-votre-navigateur-peut-vous-trahir-en-voulant-vous-faciliter-la-vie-1080225.html"&gt;Comment les sites peuvent collecter vos données dans votre dos&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="Sécurité"></category><category term="Vie privée"></category></entry><entry><title>L'aspect contaminant de l'usage des objets connectés</title><link href="http://nicolas.sebrecht.fr/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html" rel="alternate"></link><published>2017-01-17T00:00:00+01:00</published><updated>2017-01-17T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-01-17:/2017-01-17-laspect-contaminant-de-lusage-des-objets-connectes.html</id><summary type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
 le fait de ne pas seulement collecter nos propres informations mais aussi celles
 des …&lt;/p&gt;</summary><content type="html">&lt;p&gt;C'est un nouvel aspect qu'il convient de tenir compte. La contamination, c'est
 le fait de ne pas seulement collecter nos propres informations mais aussi celles
@@ -145,7 +187,35 @@ exposée&lt;/em&gt;.&lt;/li&gt;
 jamais été aussi grand et que la tendance n'est pas prête de s'inverser.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Big Data"></category><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Les objets connectés, vus par le CIGREF</title><link href="http://nicolas.sebrecht.fr/2016-12-20-les-objets-connectes-vus-par-le-cigref.html" rel="alternate"></link><published>2016-12-20T00:00:00+01:00</published><updated>2016-12-20T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-20:/2016-12-20-les-objets-connectes-vus-par-le-cigref.html</id><summary type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
+</content><category term="Big Data"></category><category term="Vie privée"></category><category term="Objets connectés"></category></entry><entry><title>Quelques brèves qu'il ne fallait pas manquer (Décembre 2016)</title><link href="http://nicolas.sebrecht.fr/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer-decembre-2016.html" rel="alternate"></link><published>2016-12-22T00:00:00+01:00</published><updated>2016-12-22T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-22:/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer-decembre-2016.html</id><summary type="html"></summary><content type="html">&lt;div class="section" id="ces-entreprises-qui-vous-veulent-du-bien"&gt;
+&lt;h2&gt;Ces entreprises qui vous veulent du bien&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;07/12/2016&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/apple-aimerait-bien-stocker-tous-nos-papiers-d-identite-1067904.html"&gt;Apple aimerait bien stocker tous nos papiers d’identité&lt;/a&gt;,
+[&lt;a class="reference external" href="http://www.01net.com"&gt;01net&lt;/a&gt;]. Pourquoi ne pas offrir tous nos papiers d'indentité&amp;nbsp;?&lt;/li&gt;
+&lt;li&gt;20/12/2016&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/mark-zuckerberg-s-est-cree-une-intelligence-artificielle-domotique-et-ca-fait-peur-1072920.html"&gt;Mark Zuckerberg s’est créé une intelligence artificielle
+domotique (et ça fait peur)&lt;/a&gt;,
+[&lt;a class="reference external" href="http://www.01net.com"&gt;01net&lt;/a&gt;]. Des micros allumés 24h/7 chez vous et des droits d'accès pour petits rois.&lt;/li&gt;
+&lt;li&gt;30/11/2016&amp;nbsp;: &lt;a class="reference external" href="https://blog.kaspersky.fr/free-your-digital-life/6366/"&gt;Reprenez le contrôle de votre vie numérique&lt;/a&gt;, [&lt;a class="reference external" href="https://blog.kaspersky.fr"&gt;kaspersky&lt;/a&gt;].
+Un titre un peu racolleur mais qui s'intéresse à un vrai sujet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="la-protection-des-personnes"&gt;
+&lt;h2&gt;La protection des personnes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;17/11/2016&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/ce-que-change-la-loi-pour-une-republique-numerique-pour-la-protection-des-donnees-personnelles"&gt;Ce que change la loi pour une République numérique pour la
+protection des données personnelles&lt;/a&gt;,
+[&lt;a class="reference external" href="http://www.cnil.fr"&gt;CNIL&lt;/a&gt;].  Le droit à l’autodétermination de ses données et un nouveau droit
+à l'oubli pour les mineurs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="les-cyber-guerres"&gt;
+&lt;h2&gt;Les cyber-guerres&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;13/12/2016&amp;nbsp;: &lt;a class="reference external" href="http://www.lemondeinformatique.fr/actualites/lire-la-france-cree-un-commandement-cyberdefense-66778.html"&gt;La France crée un commandement cyberdéfense&lt;/a&gt;,
+[&lt;a class="reference external" href="http://www.lemondeinformatique.fr"&gt;lemondeinformatique&lt;/a&gt;].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="Sécurité"></category><category term="Big Data"></category><category term="Vie privée"></category></entry><entry><title>Les objets connectés, vus par le CIGREF</title><link href="http://nicolas.sebrecht.fr/2016-12-20-les-objets-connectes-vus-par-le-cigref.html" rel="alternate"></link><published>2016-12-20T00:00:00+01:00</published><updated>2016-12-20T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-20:/2016-12-20-les-objets-connectes-vus-par-le-cigref.html</id><summary type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
 voici quelques éléments clés.&lt;/p&gt;
 &lt;blockquote class="pull-quote"&gt;
 &lt;em&gt;Cisco prévoit que le nombre d’objets connectés …&lt;/em&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Le CIGREF vient de publier un ouvrage sur &lt;a class="reference external" href="http://images.cigref.fr/Publication/2014-INHESJ-CIGREF-securite_objets_connectes.pdf"&gt;les objets connectés&lt;/a&gt; (65 pages). En
