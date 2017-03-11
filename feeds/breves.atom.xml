@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Digital Side Effects - Brèves</title><link href="http://nicolas.sebrecht.fr/" rel="alternate"></link><link href="http://nicolas.sebrecht.fr/feeds/breves.atom.xml" rel="self"></link><id>http://nicolas.sebrecht.fr/</id><updated>2017-03-11T00:00:00+01:00</updated><entry><title>Quelques brèves qu'il ne fallait pas manquer (Mars 2017)</title><link href="http://nicolas.sebrecht.fr/2017-03-11-quelques-breves-quil-ne-fallait-pas-manquer-mars-2017.html" rel="alternate"></link><published>2017-03-11T00:00:00+01:00</published><updated>2017-03-11T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2017-03-11:/2017-03-11-quelques-breves-quil-ne-fallait-pas-manquer-mars-2017.html</id><summary type="html"></summary><content type="html">&lt;div class="section" id="aux-usa"&gt;
 &lt;h2&gt;Aux USA&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;07/03/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/wikileaks-devoile-l-incroyable-arsenal-des-hackers-de-la-cia-1116996.html"&gt;L'arsenal de la CIA pour espionner&lt;/a&gt;.
+&lt;li&gt;07/03/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/wikileaks-devoile-l-incroyable-arsenal-des-hackers-de-la-cia-1116996.html"&gt;L'arsenal de la CIA pour espionner&lt;/a&gt;, [&lt;a class="reference external" href="http://01net.com"&gt;01net&lt;/a&gt;].
 &lt;strong&gt;Il s'agit sans soute de l'actualité la plus importante&lt;/strong&gt;. La CIA cible
 notamment les équipements faiblement sécurisés comme les objets connectés.&lt;/li&gt;
 &lt;li&gt;09/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.lemondeinformatique.fr/actualites/lire-us-le-projet-de-collecte-des-mots-de-passe-des-reseaux-sociaux-inquiete-67327.html"&gt;Quand un État souhaite carrément obliger des civils à fournir
-leurs mots de passes !&lt;/a&gt;&lt;/li&gt;
+leurs mots de passes !&lt;/a&gt;, [&lt;a class="reference external" href="http://www.lemondeinformatique.fr"&gt;lemondeinformatique&lt;/a&gt;].&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="internet"&gt;
 &lt;h2&gt;Internet&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;07/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.numerama.com/tech/230467-bots-plus-de-la-moitie-du-trafic-web-mondial-ne-provient-pas-des-humains.html"&gt;Vous pensiez générer du traffic&amp;nbsp;?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;07/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.numerama.com/tech/230467-bots-plus-de-la-moitie-du-trafic-web-mondial-ne-provient-pas-des-humains.html"&gt;Vous pensiez générer du traffic&amp;nbsp;?&lt;/a&gt;, [&lt;a class="reference external" href="http://www.numerama.com"&gt;numerama&lt;/a&gt;].&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="machine-learning"&gt;
 &lt;h2&gt;Machine learning&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;N/C&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/les-algorithmes-en-citations"&gt;Quelques citations pour se détendre :-)&lt;/a&gt;. Le plus intéressant
-est le PDF de la table ronde (en bas de page). Extrait&amp;nbsp;:&lt;/p&gt;
+&lt;li&gt;&lt;p class="first"&gt;N/C&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/les-algorithmes-en-citations"&gt;Quelques citations pour se détendre :-)&lt;/a&gt;, [&lt;a class="reference external" href="https://www.cnil/fr"&gt;CNIL&lt;/a&gt;]. Le plus
+intéressant est le PDF de la table ronde (en bas de page). Extrait&amp;nbsp;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;«&amp;nbsp;on passe aujourd’hui d’un monde de programmation à un monde
 d’apprentissage. La programmation, l’exécution existe depuis près d’un
@@ -35,10 +35,12 @@ qu’est-ce qui ne l’est pas etc…&amp;nbsp;».&lt;/p&gt;
 &lt;h2&gt;Protéger sa vie privée&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;10/02/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.lemondeinformatique.fr/actualites/lire-un-app-pour-bloquer-la-collecte-de-donnees-sur-android-67343.html"&gt;Une app android pour mieux se protéger (requiert un terminal
-rooté)&lt;/a&gt;. On ne comprend pas bien pourquoi Google n'active pas ce type de fonctionnalité par défaut...&lt;/li&gt;
-&lt;li&gt;28/02/2017&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/jouets-connectes-quels-conseils-pour-les-securiser"&gt;Se protéger des jouets connectés&lt;/a&gt;.
-Nous en parlions il y a peu. Voici une brève de la &lt;a class="reference external" href="https://www.cnil/fr"&gt;CNIL&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;11/01/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/comment-votre-navigateur-peut-vous-trahir-en-voulant-vous-faciliter-la-vie-1080225.html"&gt;Comment les sites peuvent collecter vos données dans votre dos&lt;/a&gt;.&lt;/li&gt;
+rooté)&lt;/a&gt;,
+[&lt;a class="reference external" href="http://www.lemondeinformatique.fr"&gt;lemondeinformatique&lt;/a&gt;]. On ne comprend pas bien pourquoi Google n'active pas
+ce type de fonctionnalité par défaut...&lt;/li&gt;
+&lt;li&gt;28/02/2017&amp;nbsp;: &lt;a class="reference external" href="https://www.cnil.fr/fr/jouets-connectes-quels-conseils-pour-les-securiser"&gt;Se protéger des jouets connectés&lt;/a&gt;,
+[&lt;a class="reference external" href="https://www.cnil/fr"&gt;CNIL&lt;/a&gt;].  Nous en parlions il y a peu.&lt;/li&gt;
+&lt;li&gt;11/01/2017&amp;nbsp;: &lt;a class="reference external" href="http://www.01net.com/actualites/comment-votre-navigateur-peut-vous-trahir-en-voulant-vous-faciliter-la-vie-1080225.html"&gt;Comment les sites peuvent collecter vos données dans votre dos&lt;/a&gt;, [&lt;a class="reference external" href="http://01net.com"&gt;01net&lt;/a&gt;].&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </content><category term="Sécurité"></category><category term="Vie privée"></category></entry><entry><title>Quelques brèves qu'il ne fallait pas manquer (Décembre 2016)</title><link href="http://nicolas.sebrecht.fr/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer-decembre-2016.html" rel="alternate"></link><published>2016-12-22T00:00:00+01:00</published><updated>2016-12-22T00:00:00+01:00</updated><author><name>Nicolas Sebrecht</name></author><id>tag:nicolas.sebrecht.fr,2016-12-22:/2016-12-22-quelques-breves-quil-ne-fallait-pas-manquer-decembre-2016.html</id><summary type="html"></summary><content type="html">&lt;div class="section" id="ces-entreprises-qui-vous-veulent-du-bien"&gt;
