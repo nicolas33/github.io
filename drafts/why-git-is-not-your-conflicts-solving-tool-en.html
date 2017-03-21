@@ -152,7 +152,7 @@ this is true while merging, too.</p>
 <p>Conflicts are incompatible changes.</p>
 </div>
 <p>Everyone know them. When one makes changes on a file and someone else makes
-other changes is the same area, Git will stop at some point and complain about
+other changes in the same area, Git will stop at some point and complain about
 those incompatible changes.</p>
 <p>I call those <strong>&quot;textual&quot;</strong> conflicts. Git (or whatever content manager you use)
 don't know how to get them solve. Human intervention is required.</p>
@@ -253,9 +253,9 @@ master</code>
 <h3>Read the patches</h3>
 <p>Next, read the patches <strong>including those you're not sure what the commits are
 about</strong>.</p>
-<div class="highlight"><pre><span></span>&gt; git log --decorate --topo-order -p master..origin/master
+<div class="highlight"><pre><span></span>&gt; git log --decorate --topo-order -p MY_BRANCH..origin/master
 </pre></div>
-<p>or</p>
+<p>or, for each specific commit,</p>
 <div class="highlight"><pre><span></span>&gt; git show 9d77b0405
 </pre></div>
 </div>
@@ -263,7 +263,7 @@ about</strong>.</p>
 <div class="section" id="conclusion">
 <h2>Conclusion</h2>
 <div class="alert  alert-danger compound">
-<p>Never ever trust a rebase (or a merge) just because there was no conflicts.</p>
+<p>Never ever trust a rebase (or a merge) just because there was no conflict.</p>
 </div>
 <p>Rebasing means integrating topics that could work in the mainline <em>but might
 really NOT play well with yours</em>.</p>

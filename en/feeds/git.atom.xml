@@ -29,7 +29,7 @@ this is true while merging, too.&lt;/p&gt;
 &lt;p&gt;Conflicts are incompatible changes.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Everyone know them. When one makes changes on a file and someone else makes
-other changes is the same area, Git will stop at some point and complain about
+other changes in the same area, Git will stop at some point and complain about
 those incompatible changes.&lt;/p&gt;
 &lt;p&gt;I call those &lt;strong&gt;&amp;quot;textual&amp;quot;&lt;/strong&gt; conflicts. Git (or whatever content manager you use)
 don't know how to get them solve. Human intervention is required.&lt;/p&gt;
@@ -130,9 +130,9 @@ master&lt;/code&gt;
 &lt;h3&gt;Read the patches&lt;/h3&gt;
 &lt;p&gt;Next, read the patches &lt;strong&gt;including those you're not sure what the commits are
 about&lt;/strong&gt;.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; git log --decorate --topo-order -p master..origin/master
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; git log --decorate --topo-order -p MY_BRANCH..origin/master
 &lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;or&lt;/p&gt;
+&lt;p&gt;or, for each specific commit,&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; git show 9d77b0405
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -140,7 +140,7 @@ about&lt;/strong&gt;.&lt;/p&gt;
 &lt;div class="section" id="conclusion"&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;div class="alert  alert-danger compound"&gt;
-&lt;p&gt;Never ever trust a rebase (or a merge) just because there was no conflicts.&lt;/p&gt;
+&lt;p&gt;Never ever trust a rebase (or a merge) just because there was no conflict.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Rebasing means integrating topics that could work in the mainline &lt;em&gt;but might
 really NOT play well with yours&lt;/em&gt;.&lt;/p&gt;
